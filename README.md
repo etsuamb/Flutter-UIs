@@ -1,64 +1,20 @@
-These are random flutter UIs
+# Flutter UI Practice
 
+A collection of Flutter UI exercises and interface experiments created while practicing mobile application design and implementation.
 
+## Included Practice
 
+- Book store interface
+- Splash screen and onboarding
+- Certificate interface
+- Business card interface
 
+## Purpose
 
+This repository documents UI practice and experimentation with Flutter and Dart.
 
+## Project Type
 
+Learning and UI practice repository.
 
-
-
-Book store UI
-
-
-![image](https://github.com/etsuamb/Flutter-UIs/assets/150803173/bee64088-574a-4303-befc-2da64232b0ee)
-
-
-
-
-
-
-
-
-
-
-Splash Screen and onboarding UI
-
-
-![image](https://github.com/etsuamb/Flutter-UIs/assets/150803173/b4dff334-d318-4610-b6ff-d84d5346a7a2)
-
-
-
-
-
-
-
-
-
-Certificate UI
-
-
-
-![image](https://github.com/etsuamb/Flutter-UIs/assets/150803173/2479a75a-a81d-464f-aff8-064ab509b4dd)
-
-
-
-
-
-
-
-Business Card UI
-
-
-![image](https://github.com/etsuamb/Flutter-UIs/assets/150803173/d1ead78c-a887-4bca-b61f-ab9a01bf8d94)
-
-
-
-
-
-
-
-
-
-
+> Selected production-style projects are maintained separately as part of my main portfolio.
